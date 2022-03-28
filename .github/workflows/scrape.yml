@@ -1,0 +1,27 @@
+name: Scrape data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '7,22,37,52 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Fetch latest data
+      run: |-
+        curl https://www.cdc.gov/coronavirus/2019-ncov/json/county_level_cdt_extract.json | jq . > county_level_cdt_extract.json
+    - name: Commit and push if changed
+      run: |-
+        git config user.name "Bot"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
