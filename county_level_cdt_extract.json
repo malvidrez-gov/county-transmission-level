@@ -27,7 +27,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -77,7 +77,7 @@
       "cases": "",
       "admissions": "0.36",
       "beds": "0.3",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -147,7 +147,7 @@
       "cases": "",
       "admissions": "",
       "beds": "0.3",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -157,7 +157,7 @@
       "cases": "21.02",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -227,7 +227,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -257,7 +257,7 @@
       "cases": "269.67",
       "admissions": "0.0",
       "beds": "0.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -307,7 +307,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -337,7 +337,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -347,7 +347,7 @@
       "cases": "18.89",
       "admissions": "0.92",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -357,7 +357,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -417,7 +417,7 @@
       "cases": "17.19",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -447,7 +447,7 @@
       "cases": "32.72",
       "admissions": "4.67",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -677,7 +677,7 @@
       "cases": "569.37",
       "admissions": "",
       "beds": "1.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -697,7 +697,7 @@
       "cases": "202.78",
       "admissions": "1.99",
       "beds": "1.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -746,7 +746,7 @@
       "county": "Denali Borough",
       "cases": "",
       "admissions": "",
-      "beds": "1.8",
+      "beds": "1.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -766,7 +766,7 @@
       "county": "Fairbanks North Star Borough",
       "cases": "84.67",
       "admissions": "1.16",
-      "beds": "1.8",
+      "beds": "1.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -817,7 +817,7 @@
       "cases": "258.97",
       "admissions": "0.0",
       "beds": "0.0",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -847,7 +847,7 @@
       "cases": "",
       "admissions": "",
       "beds": "1.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -917,7 +917,7 @@
       "cases": "164.84",
       "admissions": "4.0",
       "beds": "2.6",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -927,7 +927,7 @@
       "cases": "",
       "admissions": "",
       "beds": "2.6",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -936,8 +936,8 @@
       "county": "Southeast Fairbanks CA",
       "cases": "275.64",
       "admissions": "",
-      "beds": "1.8",
-      "cbl": "Low",
+      "beds": "1.7",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -976,7 +976,7 @@
       "county": "Yukon-Koyukuk CA",
       "cases": "",
       "admissions": "",
-      "beds": "1.8",
+      "beds": "1.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -987,7 +987,7 @@
       "cases": "57.03",
       "admissions": "2.81",
       "beds": "2.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -1097,7 +1097,7 @@
       "cases": "212.84",
       "admissions": "5.44",
       "beds": "1.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -1137,7 +1137,7 @@
       "cases": "",
       "admissions": "0.98",
       "beds": "2.3",
-      "cbl": "High",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -1147,7 +1147,7 @@
       "cases": "",
       "admissions": "16.0",
       "beds": "0.0",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -1217,7 +1217,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.0",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -1607,7 +1607,7 @@
       "cases": "",
       "admissions": "",
       "beds": "2.3",
-      "cbl": "High",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -2197,7 +2197,7 @@
       "cases": "489.18",
       "admissions": "0.0",
       "beds": "1.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -3027,7 +3027,7 @@
       "cases": "",
       "admissions": "",
       "beds": "1.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -4087,7 +4087,7 @@
       "cases": "18.29",
       "admissions": "0.0",
       "beds": "1.1",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -4097,7 +4097,7 @@
       "cases": "842.36",
       "admissions": "0.0",
       "beds": "0.8",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -4107,7 +4107,7 @@
       "cases": "24.17",
       "admissions": "10.14",
       "beds": "0.3",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -4187,7 +4187,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "1.9",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -4217,7 +4217,7 @@
       "cases": "88.40",
       "admissions": "4.49",
       "beds": "2.9",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -4297,7 +4297,7 @@
       "cases": "254.41",
       "admissions": "",
       "beds": "1.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -4327,7 +4327,7 @@
       "cases": "130.12",
       "admissions": "1.64",
       "beds": "1.6",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -4477,7 +4477,7 @@
       "cases": "0.00",
       "admissions": "4.24",
       "beds": "3.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -4487,7 +4487,7 @@
       "cases": "99.72",
       "admissions": "1.3",
       "beds": "1.6",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -4597,7 +4597,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.3",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -4617,7 +4617,7 @@
       "cases": "",
       "admissions": "",
       "beds": "3.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -5067,7 +5067,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -5157,7 +5157,7 @@
       "cases": "",
       "admissions": "21.43",
       "beds": "3.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -5577,7 +5577,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "1.8",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -6126,7 +6126,7 @@
       "county": "Cook County",
       "cases": "98.89",
       "admissions": "1.68",
-      "beds": "1.7",
+      "beds": "1.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -6186,7 +6186,7 @@
       "county": "DuPage County",
       "cases": "99.68",
       "admissions": "2.28",
-      "beds": "1.7",
+      "beds": "1.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -6197,7 +6197,7 @@
       "cases": "",
       "admissions": "4.0",
       "beds": "0.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -6266,8 +6266,8 @@
       "county": "Gallatin County",
       "cases": "",
       "admissions": "",
-      "beds": "0.2",
-      "cbl": "Low",
+      "beds": "0.3",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -6316,8 +6316,8 @@
       "county": "Hardin County",
       "cases": "0.00",
       "admissions": "0.0",
-      "beds": "0.2",
-      "cbl": "Low",
+      "beds": "0.3",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -6456,7 +6456,7 @@
       "county": "Lake County",
       "cases": "89.59",
       "admissions": "2.08",
-      "beds": "1.7",
+      "beds": "1.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -6596,7 +6596,7 @@
       "county": "McHenry County",
       "cases": "53.94",
       "admissions": "4.35",
-      "beds": "1.7",
+      "beds": "1.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -6726,8 +6726,8 @@
       "county": "Pope County",
       "cases": "",
       "admissions": "",
-      "beds": "0.2",
-      "cbl": "Low",
+      "beds": "0.3",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -6786,8 +6786,8 @@
       "county": "Saline County",
       "cases": "",
       "admissions": "13.49",
-      "beds": "0.2",
-      "cbl": "Low",
+      "beds": "0.3",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -7086,7 +7086,7 @@
       "county": "Clark County",
       "cases": "18.60",
       "admissions": "0.0",
-      "beds": "0.8",
+      "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -7196,7 +7196,7 @@
       "county": "Fayette County",
       "cases": "",
       "admissions": "",
-      "beds": "1.0",
+      "beds": "1.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -7696,7 +7696,7 @@
       "county": "Scott County",
       "cases": "",
       "admissions": "9.33",
-      "beds": "0.8",
+      "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -7796,7 +7796,7 @@
       "county": "Union County",
       "cases": "",
       "admissions": "",
-      "beds": "1.0",
+      "beds": "1.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -7876,7 +7876,7 @@
       "county": "Wayne County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "1.0",
+      "beds": "1.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -8277,7 +8277,7 @@
       "cases": "225.02",
       "admissions": "13.33",
       "beds": "3.7",
-      "cbl": "Low",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -8297,7 +8297,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "3.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -9737,7 +9737,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "0.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -9977,7 +9977,7 @@
       "cases": "294.54",
       "admissions": "",
       "beds": "1.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -10207,7 +10207,7 @@
       "cases": "0.00",
       "admissions": "2.64",
       "beds": "1.9",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -10437,7 +10437,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -10557,7 +10557,7 @@
       "cases": "",
       "admissions": "1.06",
       "beds": "1.9",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -10577,7 +10577,7 @@
       "cases": "23.02",
       "admissions": "4.92",
       "beds": "1.9",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -10957,7 +10957,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "0.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -11127,7 +11127,7 @@
       "cases": "",
       "admissions": "",
       "beds": "1.9",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -11257,7 +11257,7 @@
       "cases": "1613.23",
       "admissions": "0.0",
       "beds": "0.6",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -11807,7 +11807,7 @@
       "cases": "150.62",
       "admissions": "4.52",
       "beds": "1.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -11836,7 +11836,7 @@
       "county": "Hancock County",
       "cases": "58.20",
       "admissions": "1.12",
-      "beds": "2.4",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -11886,7 +11886,7 @@
       "county": "Penobscot County",
       "cases": "118.31",
       "admissions": "3.59",
-      "beds": "2.4",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -11896,7 +11896,7 @@
       "county": "Piscataquis County",
       "cases": "59.58",
       "admissions": "2.0",
-      "beds": "2.4",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -11936,7 +11936,7 @@
       "county": "Washington County",
       "cases": "188.02",
       "admissions": "10.0",
-      "beds": "2.4",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -12377,7 +12377,7 @@
       "cases": "",
       "admissions": "",
       "beds": "3.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -12427,7 +12427,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "3.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -12527,7 +12527,7 @@
       "cases": "",
       "admissions": "2.86",
       "beds": "3.8",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -12607,7 +12607,7 @@
       "cases": "59.08",
       "admissions": "3.88",
       "beds": "3.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -12727,7 +12727,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "3.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -12777,7 +12777,7 @@
       "cases": "50.55",
       "admissions": "",
       "beds": "3.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -12837,7 +12837,7 @@
       "cases": "",
       "admissions": "2.56",
       "beds": "3.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -13017,7 +13017,7 @@
       "cases": "",
       "admissions": "7.32",
       "beds": "3.8",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -13047,7 +13047,7 @@
       "cases": "",
       "admissions": "",
       "beds": "3.8",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -13137,7 +13137,7 @@
       "cases": "214.09",
       "admissions": "2.0",
       "beds": "1.6",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -13377,7 +13377,7 @@
       "cases": "95.22",
       "admissions": "8.33",
       "beds": "3.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -13397,7 +13397,7 @@
       "cases": "62.75",
       "admissions": "5.59",
       "beds": "3.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -14047,7 +14047,7 @@
       "cases": "265.20",
       "admissions": "0.0",
       "beds": "0.0",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -14127,7 +14127,7 @@
       "cases": "255.79",
       "admissions": "0.0",
       "beds": "0.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -14967,7 +14967,7 @@
       "cases": "",
       "admissions": "1.8",
       "beds": "1.1",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -14976,7 +14976,7 @@
       "county": "Caldwell County",
       "cases": "",
       "admissions": "",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15036,7 +15036,7 @@
       "county": "Cass County",
       "cases": "17.96",
       "admissions": "2.84",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15086,7 +15086,7 @@
       "county": "Clay County",
       "cases": "",
       "admissions": "3.24",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15096,7 +15096,7 @@
       "county": "Clinton County",
       "cases": "",
       "admissions": "1.72",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15156,7 +15156,7 @@
       "county": "Daviess County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15197,7 +15197,7 @@
       "cases": "72.09",
       "admissions": "",
       "beds": "1.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15247,7 +15247,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "2.9",
-      "cbl": "High",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15326,7 +15326,7 @@
       "county": "Jackson County",
       "cases": "29.02",
       "admissions": "1.49",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15356,7 +15356,7 @@
       "county": "Johnson County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15367,7 +15367,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "0.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15386,7 +15386,7 @@
       "county": "Lafayette County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15487,7 +15487,7 @@
       "cases": "",
       "admissions": "",
       "beds": "2.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15497,7 +15497,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "2.9",
-      "cbl": "High",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15517,7 +15517,7 @@
       "cases": "98.63",
       "admissions": "",
       "beds": "1.1",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15547,7 +15547,7 @@
       "cases": "303.00",
       "admissions": "",
       "beds": "",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -15637,7 +15637,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "1.1",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15647,7 +15647,7 @@
       "cases": "47.24",
       "admissions": "10.77",
       "beds": "4.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15676,7 +15676,7 @@
       "county": "Platte County",
       "cases": "",
       "admissions": "2.49",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15736,7 +15736,7 @@
       "county": "Ray County",
       "cases": "0.00",
       "admissions": "0.0",
-      "beds": "2.6",
+      "beds": "2.5",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -15817,7 +15817,7 @@
       "cases": "",
       "admissions": "",
       "beds": "1.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -15967,7 +15967,7 @@
       "cases": "",
       "admissions": "",
       "beds": "1.1",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16027,7 +16027,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.2",
-      "cbl": "High",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16057,7 +16057,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "0.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16077,7 +16077,7 @@
       "cases": "266.19",
       "admissions": "0.0",
       "beds": "0.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -16087,7 +16087,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16107,7 +16107,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -16127,7 +16127,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16167,7 +16167,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "0.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16207,7 +16207,7 @@
       "cases": "",
       "admissions": "3.85",
       "beds": "0.2",
-      "cbl": "High",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16257,7 +16257,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "0.2",
-      "cbl": "High",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16287,7 +16287,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "0.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -16357,7 +16357,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "0.2",
-      "cbl": "High",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16377,7 +16377,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "0.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16397,7 +16397,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "0.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -16417,7 +16417,7 @@
       "cases": "",
       "admissions": "12.96",
       "beds": "0.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -16427,7 +16427,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "High",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -16527,7 +16527,7 @@
       "cases": "0.00",
       "admissions": "8.0",
       "beds": "1.2",
-      "cbl": "High",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -16547,7 +16547,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "0.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -16857,7 +16857,7 @@
       "cases": "",
       "admissions": "16.67",
       "beds": "0.0",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -17407,7 +17407,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.0",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18076,7 +18076,7 @@
       "county": "Guadalupe County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "6.2",
+      "beds": "6.4",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -18086,8 +18086,8 @@
       "county": "Harding County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "6.2",
-      "cbl": "Medium",
+      "beds": "6.4",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -18097,7 +18097,7 @@
       "cases": "262.03",
       "admissions": "",
       "beds": "1.8",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18147,7 +18147,7 @@
       "cases": "54.65",
       "admissions": "7.78",
       "beds": "2.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -18156,7 +18156,7 @@
       "county": "Mora County",
       "cases": "",
       "admissions": "",
-      "beds": "6.2",
+      "beds": "6.4",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -18216,7 +18216,7 @@
       "county": "San Miguel County",
       "cases": "69.66",
       "admissions": "17.5",
-      "beds": "6.2",
+      "beds": "6.4",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -18427,7 +18427,7 @@
       "cases": "219.78",
       "admissions": "0.0",
       "beds": "3.1",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18457,7 +18457,7 @@
       "cases": "206.05",
       "admissions": "33.33",
       "beds": "9.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18567,7 +18567,7 @@
       "cases": "277.70",
       "admissions": "6.78",
       "beds": "3.1",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18607,7 +18607,7 @@
       "cases": "238.04",
       "admissions": "1.35",
       "beds": "1.6",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18777,7 +18777,7 @@
       "cases": "235.86",
       "admissions": "0.0",
       "beds": "2.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18787,7 +18787,7 @@
       "cases": "205.79",
       "admissions": "",
       "beds": "5.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -18926,8 +18926,8 @@
       "county": "Alamance County",
       "cases": "19.47",
       "admissions": "6.05",
-      "beds": "6.2",
-      "cbl": "Medium",
+      "beds": "6.1",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -18936,7 +18936,7 @@
       "county": "Alexander County",
       "cases": "",
       "admissions": "",
-      "beds": "1.1",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -18956,7 +18956,7 @@
       "county": "Anson County",
       "cases": "0.00",
       "admissions": "0.0",
-      "beds": "1.1",
+      "beds": "1.0",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -18977,7 +18977,7 @@
       "cases": "187.96",
       "admissions": "0.0",
       "beds": "2.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -18986,7 +18986,7 @@
       "county": "Beaufort County",
       "cases": "114.91",
       "admissions": "0.0",
-      "beds": "3.2",
+      "beds": "3.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -18996,7 +18996,7 @@
       "county": "Bertie County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "1.0",
+      "beds": "0.8",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19006,7 +19006,7 @@
       "county": "Bladen County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "0.5",
+      "beds": "0.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19016,7 +19016,7 @@
       "county": "Brunswick County",
       "cases": "50.41",
       "admissions": "0.0",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19036,7 +19036,7 @@
       "county": "Burke County",
       "cases": "22.10",
       "admissions": "4.36",
-      "beds": "1.4",
+      "beds": "1.3",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19056,7 +19056,7 @@
       "county": "Caldwell County",
       "cases": "37.72",
       "admissions": "0.0",
-      "beds": "1.4",
+      "beds": "1.3",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19066,7 +19066,7 @@
       "county": "Camden County",
       "cases": "",
       "admissions": "",
-      "beds": "1.8",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19076,7 +19076,7 @@
       "county": "Carteret County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "0.8",
+      "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19096,7 +19096,7 @@
       "county": "Catawba County",
       "cases": "6.89",
       "admissions": "0.58",
-      "beds": "1.4",
+      "beds": "1.3",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19126,7 +19126,7 @@
       "county": "Chowan County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "1.0",
+      "beds": "0.8",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19146,7 +19146,7 @@
       "county": "Cleveland County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19156,7 +19156,7 @@
       "county": "Columbus County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "0.5",
+      "beds": "0.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19166,7 +19166,7 @@
       "county": "Craven County",
       "cases": "69.51",
       "admissions": "0.76",
-      "beds": "0.8",
+      "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19177,7 +19177,7 @@
       "cases": "173.47",
       "admissions": "1.27",
       "beds": "1.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -19196,7 +19196,7 @@
       "county": "Dare County",
       "cases": "",
       "admissions": "10.29",
-      "beds": "1.8",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19226,7 +19226,7 @@
       "county": "Duplin County",
       "cases": "18.73",
       "admissions": "0.0",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19236,7 +19236,7 @@
       "county": "Durham County",
       "cases": "147.13",
       "admissions": "1.08",
-      "beds": "4.0",
+      "beds": "3.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19276,7 +19276,7 @@
       "county": "Gaston County",
       "cases": "30.29",
       "admissions": "0.29",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19286,7 +19286,7 @@
       "county": "Gates County",
       "cases": "",
       "admissions": "",
-      "beds": "1.0",
+      "beds": "0.8",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19306,7 +19306,7 @@
       "county": "Granville County",
       "cases": "47.98",
       "admissions": "0.0",
-      "beds": "4.0",
+      "beds": "3.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19316,7 +19316,7 @@
       "county": "Greene County",
       "cases": "52.21",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19376,7 +19376,7 @@
       "county": "Hertford County",
       "cases": "109.81",
       "admissions": "0.0",
-      "beds": "1.0",
+      "beds": "0.8",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19386,7 +19386,7 @@
       "county": "Hoke County",
       "cases": "105.01",
       "admissions": "0.0",
-      "beds": "2.1",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19396,7 +19396,7 @@
       "county": "Hyde County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "3.2",
+      "beds": "3.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19406,7 +19406,7 @@
       "county": "Iredell County",
       "cases": "20.35",
       "admissions": "1.03",
-      "beds": "1.1",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19436,7 +19436,7 @@
       "county": "Jones County",
       "cases": "",
       "admissions": "",
-      "beds": "0.8",
+      "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19456,7 +19456,7 @@
       "county": "Lenoir County",
       "cases": "17.87",
       "admissions": "0.0",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19466,7 +19466,7 @@
       "county": "Lincoln County",
       "cases": "18.58",
       "admissions": "0.95",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19477,7 +19477,7 @@
       "cases": "161.75",
       "admissions": "0.0",
       "beds": "1.1",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -19496,7 +19496,7 @@
       "county": "Martin County",
       "cases": "49.02",
       "admissions": "0.0",
-      "beds": "3.2",
+      "beds": "3.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19516,7 +19516,7 @@
       "county": "Mecklenburg County",
       "cases": "41.61",
       "admissions": "0.44",
-      "beds": "1.1",
+      "beds": "1.0",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19527,7 +19527,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "2.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -19536,7 +19536,7 @@
       "county": "Montgomery County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "2.1",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19546,7 +19546,7 @@
       "county": "Moore County",
       "cases": "33.70",
       "admissions": "0.29",
-      "beds": "2.1",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19566,7 +19566,7 @@
       "county": "New Hanover County",
       "cases": "84.44",
       "admissions": "0.56",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19586,7 +19586,7 @@
       "county": "Onslow County",
       "cases": "6.06",
       "admissions": "0.77",
-      "beds": "0.8",
+      "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19606,7 +19606,7 @@
       "county": "Pamlico County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "0.8",
+      "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19616,7 +19616,7 @@
       "county": "Pasquotank County",
       "cases": "27.62",
       "admissions": "0.0",
-      "beds": "1.8",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19626,7 +19626,7 @@
       "county": "Pender County",
       "cases": "39.64",
       "admissions": "12.96",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19636,7 +19636,7 @@
       "county": "Perquimans County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.8",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19646,7 +19646,7 @@
       "county": "Person County",
       "cases": "40.52",
       "admissions": "0.0",
-      "beds": "4.0",
+      "beds": "3.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19656,7 +19656,7 @@
       "county": "Pitt County",
       "cases": "8.30",
       "admissions": "1.45",
-      "beds": "3.2",
+      "beds": "3.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19686,7 +19686,7 @@
       "county": "Richmond County",
       "cases": "",
       "admissions": "",
-      "beds": "2.1",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19696,7 +19696,7 @@
       "county": "Robeson County",
       "cases": "19.14",
       "admissions": "1.49",
-      "beds": "0.5",
+      "beds": "0.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19726,7 +19726,7 @@
       "county": "Rutherford County",
       "cases": "",
       "admissions": "0.0",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19746,7 +19746,7 @@
       "county": "Scotland County",
       "cases": "48.82",
       "admissions": "1.68",
-      "beds": "0.5",
+      "beds": "0.6",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19787,7 +19787,7 @@
       "cases": "217.22",
       "admissions": "0.0",
       "beds": "1.1",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -19806,7 +19806,7 @@
       "county": "Tyrrell County",
       "cases": "",
       "admissions": "",
-      "beds": "3.2",
+      "beds": "3.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19816,7 +19816,7 @@
       "county": "Union County",
       "cases": "27.10",
       "admissions": "1.27",
-      "beds": "1.1",
+      "beds": "1.0",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19826,7 +19826,7 @@
       "county": "Vance County",
       "cases": "",
       "admissions": "5.41",
-      "beds": "4.0",
+      "beds": "3.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19846,7 +19846,7 @@
       "county": "Warren County",
       "cases": "",
       "admissions": "",
-      "beds": "4.0",
+      "beds": "3.9",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19856,7 +19856,7 @@
       "county": "Washington County",
       "cases": "",
       "admissions": "4.02",
-      "beds": "3.2",
+      "beds": "3.1",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -19876,7 +19876,7 @@
       "county": "Wayne County",
       "cases": "717.93",
       "admissions": "3.65",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Medium",
       "updated": "2022-04-07"
     },
@@ -19886,7 +19886,7 @@
       "county": "Wilkes County",
       "cases": "",
       "admissions": "2.06",
-      "beds": "0.7",
+      "beds": "0.8",
       "cbl": "Low",
       "updated": "2022-04-07"
     },
@@ -20057,7 +20057,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "3.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -21487,7 +21487,7 @@
       "cases": "87.79",
       "admissions": "4.8",
       "beds": "3.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -21497,7 +21497,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "3.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -21507,7 +21507,7 @@
       "cases": "162.64",
       "admissions": "0.0",
       "beds": "1.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -21707,7 +21707,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "3.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -21767,7 +21767,7 @@
       "cases": "353.91",
       "admissions": "0.0",
       "beds": "0.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -22037,7 +22037,7 @@
       "cases": "",
       "admissions": "",
       "beds": "3.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -22217,7 +22217,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -23267,7 +23267,7 @@
       "cases": "288.49",
       "admissions": "",
       "beds": "0.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -23647,7 +23647,7 @@
       "cases": "253.83",
       "admissions": "",
       "beds": "0.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -24397,7 +24397,7 @@
       "cases": "263.58",
       "admissions": "0.0",
       "beds": "0.6",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -24687,7 +24687,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "5.3",
-      "cbl": "Low",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -24737,7 +24737,7 @@
       "cases": "",
       "admissions": "24.0",
       "beds": "5.3",
-      "cbl": "Low",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -24787,7 +24787,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "5.3",
-      "cbl": "Low",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -24997,7 +24997,7 @@
       "cases": "",
       "admissions": "",
       "beds": "5.3",
-      "cbl": "Low",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -25007,7 +25007,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "5.3",
-      "cbl": "Low",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -25077,7 +25077,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "5.3",
-      "cbl": "Low",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
@@ -25217,7 +25217,7 @@
       "cases": "814.18",
       "admissions": "",
       "beds": "0.3",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -25597,7 +25597,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "1.2",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -25687,7 +25687,7 @@
       "cases": "249.56",
       "admissions": "",
       "beds": "1.1",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -26067,7 +26067,7 @@
       "cases": "",
       "admissions": "",
       "beds": "3.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -26077,7 +26077,7 @@
       "cases": "280.60",
       "admissions": "",
       "beds": "0.8",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -26087,7 +26087,7 @@
       "cases": "",
       "admissions": "",
       "beds": "1.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -26117,7 +26117,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -26257,7 +26257,7 @@
       "cases": "",
       "admissions": "",
       "beds": "1.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -26267,7 +26267,7 @@
       "cases": "",
       "admissions": "",
       "beds": "3.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -26327,7 +26327,7 @@
       "cases": "86.06",
       "admissions": "",
       "beds": "0.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -26527,7 +26527,7 @@
       "cases": "217.25",
       "admissions": "0.0",
       "beds": "1.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -26607,7 +26607,7 @@
       "cases": "526.40",
       "admissions": "10.0",
       "beds": "0.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -26857,7 +26857,7 @@
       "cases": "93.06",
       "admissions": "0.0",
       "beds": "0.1",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27277,7 +27277,7 @@
       "cases": "61.76",
       "admissions": "2.93",
       "beds": "3.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27307,7 +27307,7 @@
       "cases": "198.71",
       "admissions": "0.0",
       "beds": "0.8",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27337,7 +27337,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "3.5",
-      "cbl": "High",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27347,7 +27347,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "0.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27377,7 +27377,7 @@
       "cases": "3676.47",
       "admissions": "",
       "beds": "0.7",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -27397,7 +27397,7 @@
       "cases": "58.67",
       "admissions": "2.04",
       "beds": "3.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27517,7 +27517,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "3.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27557,7 +27557,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "0.7",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -27807,7 +27807,7 @@
       "cases": "23.74",
       "admissions": "3.15",
       "beds": "3.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -28077,7 +28077,7 @@
       "cases": "14.99",
       "admissions": "",
       "beds": "3.5",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -28217,7 +28217,7 @@
       "cases": "4407.19",
       "admissions": "0.0",
       "beds": "1.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -28457,7 +28457,7 @@
       "cases": "378.89",
       "admissions": "0.0",
       "beds": "0.8",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -28867,7 +28867,7 @@
       "cases": "201.21",
       "admissions": "0.0",
       "beds": "1.8",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -28897,7 +28897,7 @@
       "cases": "222.26",
       "admissions": "3.12",
       "beds": "1.8",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -28907,7 +28907,7 @@
       "cases": "",
       "admissions": "",
       "beds": "0.0",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -28957,7 +28957,7 @@
       "cases": "203.42",
       "admissions": "4.0",
       "beds": "2.6",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -29077,7 +29077,7 @@
       "cases": "206.47",
       "admissions": "1.45",
       "beds": "1.0",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -29337,7 +29337,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "6.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -29427,7 +29427,7 @@
       "cases": "341.03",
       "admissions": "",
       "beds": "2.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -29507,7 +29507,7 @@
       "cases": "227.34",
       "admissions": "",
       "beds": "1.3",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -29687,7 +29687,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "6.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -29747,7 +29747,7 @@
       "cases": "384.59",
       "admissions": "",
       "beds": "2.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -29887,7 +29887,7 @@
       "cases": "",
       "admissions": "",
       "beds": "6.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -29897,7 +29897,7 @@
       "cases": "334.82",
       "admissions": "",
       "beds": "1.3",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -29977,7 +29977,7 @@
       "cases": "111.29",
       "admissions": "",
       "beds": "1.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -29997,7 +29997,7 @@
       "cases": "138.19",
       "admissions": "",
       "beds": "1.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -30037,7 +30037,7 @@
       "cases": "379.92",
       "admissions": "",
       "beds": "2.5",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -30307,7 +30307,7 @@
       "cases": "",
       "admissions": "5.93",
       "beds": "6.4",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -30497,7 +30497,7 @@
       "cases": "200.06",
       "admissions": "1.53",
       "beds": "1.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -30637,7 +30637,7 @@
       "cases": "203.14",
       "admissions": "1.33",
       "beds": "1.9",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -30757,7 +30757,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "3.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -30807,7 +30807,7 @@
       "cases": "0.00",
       "admissions": "",
       "beds": "3.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -30817,7 +30817,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "2.6",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -30827,7 +30827,7 @@
       "cases": "",
       "admissions": "",
       "beds": "3.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -30887,7 +30887,7 @@
       "cases": "50.55",
       "admissions": "0.71",
       "beds": "3.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -30927,7 +30927,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "3.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -31127,7 +31127,7 @@
       "cases": "32.71",
       "admissions": "3.14",
       "beds": "2.6",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -31167,7 +31167,7 @@
       "cases": "0.00",
       "admissions": "0.0",
       "beds": "2.6",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -31207,7 +31207,7 @@
       "cases": "",
       "admissions": "0.0",
       "beds": "3.3",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -31267,7 +31267,7 @@
       "cases": "49.03",
       "admissions": "",
       "beds": "2.6",
-      "cbl": "Medium",
+      "cbl": "Low",
       "updated": "2022-04-07"
     },
     {
@@ -31327,7 +31327,7 @@
       "cases": "260.92",
       "admissions": "",
       "beds": "3.4",
-      "cbl": "Low",
+      "cbl": "Medium",
       "updated": "2022-04-07"
     },
     {
@@ -32147,7 +32147,7 @@
       "cases": "",
       "admissions": "8.0",
       "beds": "2.3",
-      "cbl": "Medium",
+      "cbl": "High",
       "updated": "2022-04-07"
     },
     {
