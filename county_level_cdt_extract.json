@@ -981,6 +981,16 @@
       "updated": "2022-04-14"
     },
     {
+      "fips": "60000",
+      "state": "American Samoa",
+      "county": "American Samoa",
+      "cases": "",
+      "admissions": "",
+      "beds": "",
+      "cbl": "High",
+      "updated": ""
+    },
+    {
       "fips": "4001",
       "state": "Arizona",
       "county": "Apache County",
@@ -3099,6 +3109,16 @@
       "beds": "0.7",
       "cbl": "Low",
       "updated": "2022-04-14"
+    },
+    {
+      "fips": "69000",
+      "state": "Commonwealth of the Northern Mariana Islands",
+      "county": "Commonwealth of the Northern Mariana Islands",
+      "cases": "",
+      "admissions": "",
+      "beds": "",
+      "cbl": "Low",
+      "updated": ""
     },
     {
       "fips": "9001",
@@ -5479,6 +5499,16 @@
       "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-04-14"
+    },
+    {
+      "fips": "66000",
+      "state": "Guam",
+      "county": "Guam",
+      "cases": "",
+      "admissions": "",
+      "beds": "",
+      "cbl": "High",
+      "updated": ""
     },
     {
       "fips": "15001",
@@ -28569,6 +28599,16 @@
       "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-04-14"
+    },
+    {
+      "fips": "78000",
+      "state": "United States Virgin Islands",
+      "county": "United States Virgin Islands",
+      "cases": "",
+      "admissions": "",
+      "beds": "",
+      "cbl": "Low",
+      "updated": ""
     },
     {
       "fips": "49001",
