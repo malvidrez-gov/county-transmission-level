@@ -776,7 +776,7 @@
       "county": "Haines Borough",
       "cases": "0.00",
       "admissions": "",
-      "beds": "0.5",
+      "beds": "0.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -786,7 +786,7 @@
       "county": "Hoonah-Angoon CA",
       "cases": "46.55",
       "admissions": "",
-      "beds": "0.5",
+      "beds": "0.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -796,7 +796,7 @@
       "county": "Juneau Cty&Bor",
       "cases": "50.04",
       "admissions": "",
-      "beds": "0.5",
+      "beds": "0.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -916,7 +916,7 @@
       "county": "Sitka Cty&Bor",
       "cases": "35.32",
       "admissions": "",
-      "beds": "0.5",
+      "beds": "0.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -926,7 +926,7 @@
       "county": "Skagway Muny",
       "cases": "0.00",
       "admissions": "",
-      "beds": "0.5",
+      "beds": "0.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -964,9 +964,9 @@
       "fips": "2282",
       "state": "Alaska",
       "county": "Yakutat Cty&Bor",
-      "cases": "46.55",
+      "cases": "0.00",
       "admissions": "",
-      "beds": "0.5",
+      "beds": "0.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -1206,7 +1206,7 @@
       "county": "Calhoun County",
       "cases": "38.54",
       "admissions": "",
-      "beds": "1.8",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -1276,7 +1276,7 @@
       "county": "Columbia County",
       "cases": "136.42",
       "admissions": "",
-      "beds": "1.8",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -1836,7 +1836,7 @@
       "county": "Union County",
       "cases": "95.65",
       "admissions": "",
-      "beds": "1.8",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -1916,7 +1916,7 @@
       "county": "Amador County",
       "cases": "32.70",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -1936,7 +1936,7 @@
       "county": "Calaveras County",
       "cases": "39.21",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -2276,7 +2276,7 @@
       "county": "San Joaquin County",
       "cases": "54.32",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -2666,7 +2666,7 @@
       "county": "Eagle County",
       "cases": "54.42",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -2706,7 +2706,7 @@
       "county": "Garfield County",
       "cases": "83.25",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -2866,7 +2866,7 @@
       "county": "Mesa County",
       "cases": "90.14",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -2966,7 +2966,7 @@
       "county": "Pitkin County",
       "cases": "78.80",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -2996,7 +2996,7 @@
       "county": "Rio Blanco County",
       "cases": "79.06",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -3966,7 +3966,7 @@
       "county": "Banks County",
       "cases": "5.20",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -3996,7 +3996,7 @@
       "county": "Ben Hill County",
       "cases": "221.56",
       "admissions": "",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Medium",
       "updated": "2022-10-21"
     },
@@ -4056,7 +4056,7 @@
       "county": "Bryan County",
       "cases": "17.66",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4076,7 +4076,7 @@
       "county": "Burke County",
       "cases": "62.55",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4136,7 +4136,7 @@
       "county": "Catoosa County",
       "cases": "14.80",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4156,7 +4156,7 @@
       "county": "Chatham County",
       "cases": "17.62",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4266,7 +4266,7 @@
       "county": "Columbia County",
       "cases": "83.59",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4316,7 +4316,7 @@
       "county": "Dade County",
       "cases": "18.62",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4326,7 +4326,7 @@
       "county": "Dawson County",
       "cases": "42.13",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4416,7 +4416,7 @@
       "county": "Effingham County",
       "cases": "20.22",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4446,7 +4446,7 @@
       "county": "Evans County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4526,7 +4526,7 @@
       "county": "Glascock County",
       "cases": "67.32",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4586,7 +4586,7 @@
       "county": "Habersham County",
       "cases": "28.68",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4596,7 +4596,7 @@
       "county": "Hall County",
       "cases": "45.98",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4676,7 +4676,7 @@
       "county": "Irwin County",
       "cases": "10.62",
       "admissions": "",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4726,7 +4726,7 @@
       "county": "Jenkins County",
       "cases": "23.05",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4796,7 +4796,7 @@
       "county": "Liberty County",
       "cases": "16.28",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4806,7 +4806,7 @@
       "county": "Lincoln County",
       "cases": "63.12",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4816,7 +4816,7 @@
       "county": "Long County",
       "cases": "15.34",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4836,7 +4836,7 @@
       "county": "Lumpkin County",
       "cases": "38.68",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -4876,7 +4876,7 @@
       "county": "McDuffie County",
       "cases": "32.85",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5116,7 +5116,7 @@
       "county": "Richmond County",
       "cases": "82.96",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5216,7 +5216,7 @@
       "county": "Taliaferro County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5226,7 +5226,7 @@
       "county": "Tattnall County",
       "cases": "7.91",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5276,7 +5276,7 @@
       "county": "Tift County",
       "cases": "39.37",
       "admissions": "",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5296,7 +5296,7 @@
       "county": "Towns County",
       "cases": "83.08",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5326,7 +5326,7 @@
       "county": "Turner County",
       "cases": "25.05",
       "admissions": "",
-      "beds": "2.0",
+      "beds": "1.9",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5346,7 +5346,7 @@
       "county": "Union County",
       "cases": "57.12",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5366,7 +5366,7 @@
       "county": "Walker County",
       "cases": "31.54",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5396,7 +5396,7 @@
       "county": "Warren County",
       "cases": "57.10",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5446,7 +5446,7 @@
       "county": "White County",
       "cases": "38.96",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5566,7 +5566,7 @@
       "county": "Ada County",
       "cases": "63.96",
       "admissions": "",
-      "beds": "4.4",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5636,7 +5636,7 @@
       "county": "Boise County",
       "cases": "12.77",
       "admissions": "",
-      "beds": "4.4",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5696,7 +5696,7 @@
       "county": "Canyon County",
       "cases": "55.69",
       "admissions": "",
-      "beds": "4.4",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5756,7 +5756,7 @@
       "county": "Elmore County",
       "cases": "87.24",
       "admissions": "",
-      "beds": "4.4",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5786,7 +5786,7 @@
       "county": "Gem County",
       "cases": "99.38",
       "admissions": "",
-      "beds": "4.4",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5926,7 +5926,7 @@
       "county": "Owyhee County",
       "cases": "16.92",
       "admissions": "",
-      "beds": "4.4",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -5986,7 +5986,7 @@
       "county": "Valley County",
       "cases": "17.56",
       "admissions": "",
-      "beds": "4.4",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -7226,7 +7226,7 @@
       "county": "Fayette County",
       "cases": "147.17",
       "admissions": "",
-      "beds": "3.3",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -7826,7 +7826,7 @@
       "county": "Union County",
       "cases": "141.76",
       "admissions": "",
-      "beds": "3.3",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -7906,7 +7906,7 @@
       "county": "Wayne County",
       "cases": "147.23",
       "admissions": "",
-      "beds": "3.3",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -8996,7 +8996,7 @@
       "county": "Brown County",
       "cases": "31.37",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9356,7 +9356,7 @@
       "county": "Jackson County",
       "cases": "53.15",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9366,7 +9366,7 @@
       "county": "Jefferson County",
       "cases": "68.27",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9586,7 +9586,7 @@
       "county": "Nemaha County",
       "cases": "58.65",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9626,7 +9626,7 @@
       "county": "Osage County",
       "cases": "62.70",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9676,7 +9676,7 @@
       "county": "Pottawatomie County",
       "cases": "77.92",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9736,7 +9736,7 @@
       "county": "Riley County",
       "cases": "33.68",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9816,7 +9816,7 @@
       "county": "Shawnee County",
       "cases": "91.02",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9836,7 +9836,7 @@
       "county": "Sherman County",
       "cases": "33.80",
       "admissions": "",
-      "beds": "4.7",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9896,7 +9896,7 @@
       "county": "Thomas County",
       "cases": "180.02",
       "admissions": "",
-      "beds": "4.7",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9916,7 +9916,7 @@
       "county": "Wabaunsee County",
       "cases": "28.86",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -9926,7 +9926,7 @@
       "county": "Wallace County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "4.7",
+      "beds": "4.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -14106,7 +14106,7 @@
       "county": "Benton County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -14226,7 +14226,7 @@
       "county": "DeSoto County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -14526,7 +14526,7 @@
       "county": "Marshall County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -14596,7 +14596,7 @@
       "county": "Panola County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -14746,7 +14746,7 @@
       "county": "Tate County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -14776,7 +14776,7 @@
       "county": "Tunica County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15006,7 +15006,7 @@
       "county": "Caldwell County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15066,7 +15066,7 @@
       "county": "Cass County",
       "cases": "48.21",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15116,7 +15116,7 @@
       "county": "Clay County",
       "cases": "32.01",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15126,7 +15126,7 @@
       "county": "Clinton County",
       "cases": "29.43",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15186,7 +15186,7 @@
       "county": "Daviess County",
       "cases": "84.56",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15356,7 +15356,7 @@
       "county": "Jackson County",
       "cases": "79.52",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15386,7 +15386,7 @@
       "county": "Johnson County",
       "cases": "40.69",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15416,7 +15416,7 @@
       "county": "Lafayette County",
       "cases": "55.03",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15706,7 +15706,7 @@
       "county": "Platte County",
       "cases": "21.07",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -15766,7 +15766,7 @@
       "county": "Ray County",
       "cases": "34.76",
       "admissions": "",
-      "beds": "3.8",
+      "beds": "3.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -16226,7 +16226,7 @@
       "county": "Granite County",
       "cases": "88.78",
       "admissions": "",
-      "beds": "3.5",
+      "beds": "3.4",
       "cbl": "Medium",
       "updated": "2022-10-21"
     },
@@ -16266,7 +16266,7 @@
       "county": "Lake County",
       "cases": "196.99",
       "admissions": "",
-      "beds": "3.5",
+      "beds": "3.4",
       "cbl": "Medium",
       "updated": "2022-10-21"
     },
@@ -16336,7 +16336,7 @@
       "county": "Mineral County",
       "cases": "204.69",
       "admissions": "",
-      "beds": "3.5",
+      "beds": "3.4",
       "cbl": "High",
       "updated": "2022-10-21"
     },
@@ -16346,7 +16346,7 @@
       "county": "Missoula County",
       "cases": "83.61",
       "admissions": "",
-      "beds": "3.5",
+      "beds": "3.4",
       "cbl": "Medium",
       "updated": "2022-10-21"
     },
@@ -16436,7 +16436,7 @@
       "county": "Ravalli County",
       "cases": "36.52",
       "admissions": "",
-      "beds": "3.5",
+      "beds": "3.4",
       "cbl": "Medium",
       "updated": "2022-10-21"
     },
@@ -16476,7 +16476,7 @@
       "county": "Sanders County",
       "cases": "16.51",
       "admissions": "",
-      "beds": "3.5",
+      "beds": "3.4",
       "cbl": "Medium",
       "updated": "2022-10-21"
     },
@@ -16696,7 +16696,7 @@
       "county": "Burt County",
       "cases": "15.48",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -16716,7 +16716,7 @@
       "county": "Cass County",
       "cases": "53.34",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -16776,7 +16776,7 @@
       "county": "Colfax County",
       "cases": "46.69",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -16786,7 +16786,7 @@
       "county": "Cuming County",
       "cases": "33.91",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -16856,7 +16856,7 @@
       "county": "Dodge County",
       "cases": "51.96",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -16866,7 +16866,7 @@
       "county": "Douglas County",
       "cases": "51.98",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -17356,7 +17356,7 @@
       "county": "Sarpy County",
       "cases": "43.27",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -17366,7 +17366,7 @@
       "county": "Saunders County",
       "cases": "111.22",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -17476,7 +17476,7 @@
       "county": "Washington County",
       "cases": "14.47",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "4.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -18686,7 +18686,7 @@
       "county": "Orange County",
       "cases": "204.97",
       "admissions": "",
-      "beds": "6.1",
+      "beds": "5.8",
       "cbl": "Medium",
       "updated": "2022-10-21"
     },
@@ -18856,7 +18856,7 @@
       "county": "Sullivan County",
       "cases": "163.06",
       "admissions": "",
-      "beds": "6.1",
+      "beds": "5.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -19036,7 +19036,7 @@
       "county": "Bladen County",
       "cases": "82.51",
       "admissions": "",
-      "beds": "1.2",
+      "beds": "1.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -19186,7 +19186,7 @@
       "county": "Columbus County",
       "cases": "66.66",
       "admissions": "",
-      "beds": "1.2",
+      "beds": "1.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -19726,7 +19726,7 @@
       "county": "Robeson County",
       "cases": "140.10",
       "admissions": "",
-      "beds": "1.2",
+      "beds": "1.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -19776,7 +19776,7 @@
       "county": "Scotland County",
       "cases": "91.89",
       "admissions": "",
-      "beds": "1.2",
+      "beds": "1.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -19996,7 +19996,7 @@
       "county": "Bottineau County",
       "cases": "63.67",
       "admissions": "",
-      "beds": "1.9",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20016,7 +20016,7 @@
       "county": "Burke County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.9",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20106,7 +20106,7 @@
       "county": "Foster County",
       "cases": "155.76",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20196,7 +20196,7 @@
       "county": "McHenry County",
       "cases": "34.81",
       "admissions": "",
-      "beds": "1.9",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20256,7 +20256,7 @@
       "county": "Mountrail County",
       "cases": "56.90",
       "admissions": "",
-      "beds": "1.9",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20326,7 +20326,7 @@
       "county": "Renville County",
       "cases": "85.95",
       "admissions": "",
-      "beds": "1.9",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20416,7 +20416,7 @@
       "county": "Stutsman County",
       "cases": "86.94",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20456,7 +20456,7 @@
       "county": "Ward County",
       "cases": "79.83",
       "admissions": "",
-      "beds": "1.9",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -20466,7 +20466,7 @@
       "county": "Wells County",
       "cases": "52.16",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22226,7 +22226,7 @@
       "county": "Douglas County",
       "cases": "78.39",
       "admissions": "",
-      "beds": "4.6",
+      "beds": "4.5",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22236,7 +22236,7 @@
       "county": "Gilliam County",
       "cases": "104.60",
       "admissions": "",
-      "beds": "5.0",
+      "beds": "4.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22266,7 +22266,7 @@
       "county": "Hood River County",
       "cases": "55.60",
       "admissions": "",
-      "beds": "5.0",
+      "beds": "4.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22326,7 +22326,7 @@
       "county": "Lane County",
       "cases": "65.96",
       "admissions": "",
-      "beds": "4.6",
+      "beds": "4.5",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22376,7 +22376,7 @@
       "county": "Morrow County",
       "cases": "51.71",
       "admissions": "",
-      "beds": "4.7",
+      "beds": "4.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22406,7 +22406,7 @@
       "county": "Sherman County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "5.0",
+      "beds": "4.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22426,7 +22426,7 @@
       "county": "Umatilla County",
       "cases": "55.16",
       "admissions": "",
-      "beds": "4.7",
+      "beds": "4.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -22456,7 +22456,7 @@
       "county": "Wasco County",
       "cases": "33.73",
       "admissions": "",
-      "beds": "5.0",
+      "beds": "4.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -23006,7 +23006,7 @@
       "county": "Pike County",
       "cases": "148.72",
       "admissions": "",
-      "beds": "6.1",
+      "beds": "5.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -23996,7 +23996,7 @@
       "county": "Abbeville County",
       "cases": "40.77",
       "admissions": "",
-      "beds": "2.6",
+      "beds": "2.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24006,7 +24006,7 @@
       "county": "Aiken County",
       "cases": "40.97",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24046,7 +24046,7 @@
       "county": "Barnwell County",
       "cases": "47.92",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24056,7 +24056,7 @@
       "county": "Beaufort County",
       "cases": "65.06",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24106,7 +24106,7 @@
       "county": "Chester County",
       "cases": "58.93",
       "admissions": "",
-      "beds": "5.5",
+      "beds": "5.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24126,7 +24126,7 @@
       "county": "Clarendon County",
       "cases": "56.30",
       "admissions": "",
-      "beds": "3.7",
+      "beds": "3.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24176,7 +24176,7 @@
       "county": "Edgefield County",
       "cases": "62.36",
       "admissions": "",
-      "beds": "2.2",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24226,7 +24226,7 @@
       "county": "Greenwood County",
       "cases": "52.25",
       "admissions": "",
-      "beds": "2.6",
+      "beds": "2.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24256,7 +24256,7 @@
       "county": "Jasper County",
       "cases": "49.88",
       "admissions": "",
-      "beds": "1.3",
+      "beds": "1.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24286,7 +24286,7 @@
       "county": "Laurens County",
       "cases": "60.75",
       "admissions": "",
-      "beds": "2.6",
+      "beds": "2.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24296,7 +24296,7 @@
       "county": "Lee County",
       "cases": "53.48",
       "admissions": "",
-      "beds": "3.7",
+      "beds": "3.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24336,7 +24336,7 @@
       "county": "McCormick County",
       "cases": "84.54",
       "admissions": "",
-      "beds": "2.6",
+      "beds": "2.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24396,7 +24396,7 @@
       "county": "Saluda County",
       "cases": "48.84",
       "admissions": "",
-      "beds": "2.6",
+      "beds": "2.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24416,7 +24416,7 @@
       "county": "Sumter County",
       "cases": "63.72",
       "admissions": "",
-      "beds": "3.7",
+      "beds": "3.6",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24446,7 +24446,7 @@
       "county": "York County",
       "cases": "69.76",
       "admissions": "",
-      "beds": "5.5",
+      "beds": "5.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24466,7 +24466,7 @@
       "county": "Beadle County",
       "cases": "59.61",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24736,7 +24736,7 @@
       "county": "Hand County",
       "cases": "31.34",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24786,7 +24786,7 @@
       "county": "Hyde County",
       "cases": "0.00",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -24806,7 +24806,7 @@
       "county": "Jerauld County",
       "cases": "149.03",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "2.1",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25116,7 +25116,7 @@
       "county": "Anderson County",
       "cases": "58.46",
       "admissions": "",
-      "beds": "3.2",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25176,7 +25176,7 @@
       "county": "Campbell County",
       "cases": "92.87",
       "admissions": "",
-      "beds": "3.2",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25346,7 +25346,7 @@
       "county": "Fayette County",
       "cases": "43.76",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25436,7 +25436,7 @@
       "county": "Hamilton County",
       "cases": "40.78",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25526,7 +25526,7 @@
       "county": "Houston County",
       "cases": "109.74",
       "admissions": "",
-      "beds": "0.3",
+      "beds": "0.5",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25666,7 +25666,7 @@
       "county": "Marion County",
       "cases": "48.43",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25736,7 +25736,7 @@
       "county": "Montgomery County",
       "cases": "63.16",
       "admissions": "",
-      "beds": "0.3",
+      "beds": "0.5",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25756,7 +25756,7 @@
       "county": "Morgan County",
       "cases": "93.44",
       "admissions": "",
-      "beds": "3.2",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25826,7 +25826,7 @@
       "county": "Rhea County",
       "cases": "30.15",
       "admissions": "",
-      "beds": "3.2",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25836,7 +25836,7 @@
       "county": "Roane County",
       "cases": "41.21",
       "admissions": "",
-      "beds": "3.2",
+      "beds": "3.0",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25876,7 +25876,7 @@
       "county": "Sequatchie County",
       "cases": "33.28",
       "admissions": "",
-      "beds": "1.5",
+      "beds": "1.4",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25896,7 +25896,7 @@
       "county": "Shelby County",
       "cases": "51.86",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25916,7 +25916,7 @@
       "county": "Stewart County",
       "cases": "14.58",
       "admissions": "",
-      "beds": "0.3",
+      "beds": "0.5",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -25946,7 +25946,7 @@
       "county": "Tipton County",
       "cases": "42.21",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -28706,7 +28706,7 @@
       "county": "Grand County",
       "cases": "41.01",
       "admissions": "",
-      "beds": "1.7",
+      "beds": "1.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30376,7 +30376,7 @@
       "county": "Adams County",
       "cases": "10.01",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30416,7 +30416,7 @@
       "county": "Clallam County",
       "cases": "45.26",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30436,7 +30436,7 @@
       "county": "Columbia County",
       "cases": "50.19",
       "admissions": "",
-      "beds": "4.7",
+      "beds": "4.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30466,7 +30466,7 @@
       "county": "Ferry County",
       "cases": "131.11",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30506,7 +30506,7 @@
       "county": "Grays Harbor County",
       "cases": "69.28",
       "admissions": "",
-      "beds": "3.4",
+      "beds": "3.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30516,7 +30516,7 @@
       "county": "Island County",
       "cases": "30.54",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "3.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30526,7 +30526,7 @@
       "county": "Jefferson County",
       "cases": "27.93",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30536,7 +30536,7 @@
       "county": "King County",
       "cases": "53.89",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "3.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30546,7 +30546,7 @@
       "county": "Kitsap County",
       "cases": "43.47",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "3.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30566,7 +30566,7 @@
       "county": "Klickitat County",
       "cases": "13.38",
       "admissions": "",
-      "beds": "5.0",
+      "beds": "4.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30576,7 +30576,7 @@
       "county": "Lewis County",
       "cases": "27.26",
       "admissions": "",
-      "beds": "3.4",
+      "beds": "3.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30586,7 +30586,7 @@
       "county": "Lincoln County",
       "cases": "9.14",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30596,7 +30596,7 @@
       "county": "Mason County",
       "cases": "127.31",
       "admissions": "",
-      "beds": "3.4",
+      "beds": "3.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30616,7 +30616,7 @@
       "county": "Pacific County",
       "cases": "53.40",
       "admissions": "",
-      "beds": "3.4",
+      "beds": "3.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30626,7 +30626,7 @@
       "county": "Pend Oreille County",
       "cases": "29.15",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30646,7 +30646,7 @@
       "county": "San Juan County",
       "cases": "28.44",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "3.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30656,7 +30656,7 @@
       "county": "Skagit County",
       "cases": "30.96",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "3.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30666,7 +30666,7 @@
       "county": "Skamania County",
       "cases": "16.55",
       "admissions": "",
-      "beds": "5.0",
+      "beds": "4.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30676,7 +30676,7 @@
       "county": "Snohomish County",
       "cases": "46.47",
       "admissions": "",
-      "beds": "3.9",
+      "beds": "3.8",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30686,7 +30686,7 @@
       "county": "Spokane County",
       "cases": "66.37",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30696,7 +30696,7 @@
       "county": "Stevens County",
       "cases": "67.80",
       "admissions": "",
-      "beds": "2.8",
+      "beds": "2.7",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30706,7 +30706,7 @@
       "county": "Thurston County",
       "cases": "60.92",
       "admissions": "",
-      "beds": "3.4",
+      "beds": "3.2",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
@@ -30726,7 +30726,7 @@
       "county": "Walla Walla County",
       "cases": "19.75",
       "admissions": "",
-      "beds": "4.7",
+      "beds": "4.3",
       "cbl": "Low",
       "updated": "2022-10-21"
     },
